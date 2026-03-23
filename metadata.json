@@ -1,0 +1,5 @@
+{
+  "name": "DNA Geometric Walk",
+  "description": "Visualize DNA sequences as geometric patterns using Chaos Game Representation and dinucleotide color mapping.",
+  "requestFramePermissions": []
+}
